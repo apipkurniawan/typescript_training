@@ -15,7 +15,9 @@
 //    tsc --init                          => mengenerate tsconfig.json file
 //           "allowJs": true
 //           "outDir": "./build"          => utk menyimpan hasil build ts -> js
-// 7. run dev
+// 7. buat contoh sample file index.ts
+// 8. run dev
 //    tsc -w                              => utk lihat hasil compile
-//    nodemon ./build/index.js            => utk run dev auto refresh
 //    node ./build/index.js               => utk run dev tidak auto refresh
+//    nodemon ./build/index.js            => utk run dev auto refresh
+// 9. upload to git repo
