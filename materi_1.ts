@@ -11,15 +11,11 @@
 //    npm install -g typescript           => global
 // 5. nodemon
 //    npm install -g nodemon
-// 6. scripts
-//    "tsc"
-//    "tsc -w"                            => utk lihat hasil compile
-//    "nodemon ./build/index.js"          => utk run dev auto refresh
-//    "node ./build/index.js"             => utk run dev tidak auto refresh
-// 7. tsconfig.json
-//    tsc --init
+// 6. tsconfig.json
+//    tsc --init                          => mengenerate tsconfig.json file
 //           "allowJs": true
 //           "outDir": "./build"          => utk menyimpan hasil build ts -> js
-// 8. run dev
-//    tsc -w
-//    nodemon ./build/index.js
+// 7. run dev
+//    tsc -w                              => utk lihat hasil compile
+//    nodemon ./build/index.js            => utk run dev auto refresh
+//    node ./build/index.js               => utk run dev tidak auto refresh
