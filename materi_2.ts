@@ -1,10 +1,8 @@
-// kenapa typescript ?
+// javascript
+// 1. tanpa deklarasi
+// 2. tipe data otomatis diset berdasarkan value
+// 3. dapat di re-assign
 
-// 1. trend
-//    https://insights.stackoverflow.com/survey/2019/#most-popular-technologies
-// 2. kualitas kode
-//    mudah dipahami dan dapat meningkatkan code readability
-// 3. mengurangi bugs
-//    dapat mendeteksi bugs ketika development
-// 4. scalable
-//    mudah di refactor
+// typescript
+// 1. tidak dapat di re-assign
+// 2. dapat mendeteksi bugs

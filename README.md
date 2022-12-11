@@ -1,10 +1,10 @@
 ## TYPESCRIPT
 
-### 1. setup config & konsep/cara kerja typescript
+### 1. kenapa typescript
 
-### 2. kenapa typescript
+### 2. perbedaan javascript dan typescript
 
-### 3. perbedaan javascript dan typescript
+### 3. setup config & konsep/cara kerja typescript
 
 ### 4. tipe data
 
