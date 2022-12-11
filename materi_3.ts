@@ -1,4 +1,4 @@
-// setup config & konsep/cara kerja typescript :
+// Setup config & konsep/cara kerja typescript :
 
 // 1. node
 //    node -v

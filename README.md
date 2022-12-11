@@ -1,25 +1,25 @@
 ## TYPESCRIPT
 
-### 1. kenapa typescript
+### 1. Apa dan kenapa typescript
 
-### 2. perbedaan javascript dan typescript
+### 2. Perbedaan javascript dan typescript
 
-### 3. setup config & konsep/cara kerja typescript
+### 3. Setup config & konsep/cara kerja typescript
 
-### 4. tipe data
+### 4. Tipe data
 
-### 5. typescript type
+### 5. Typescript type
 
-### 6. array & tuples
+### 6. Array & tuples
 
-### 7. object
+### 7. Object
 
-### 8. function
+### 8. Function
 
-### 9. classes
+### 9. Classes
 
-### 10. interface dan type
+### 10. Interface dan type
 
-### 11. advance type (bonus)
+### 11. Advance type (bonus)
 
-### 12. exercise
+### 12. Exercise
