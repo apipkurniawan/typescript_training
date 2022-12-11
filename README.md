@@ -6,20 +6,18 @@
 
 ### 3. Setup config & konsep/cara kerja typescript
 
-### 4. Tipe data
+### 4. Tipe data & Typescript type
 
-### 5. Typescript type
+### 5. Array & tuples
 
-### 6. Array & tuples
+### 6. Object
 
-### 7. Object
+### 7. Function
 
-### 8. Function
+### 8. Classes
 
-### 9. Classes
+### 9. Interface dan type
 
-### 10. Interface dan type
+### 10. Advance type (bonus)
 
-### 11. Advance type (bonus)
-
-### 12. Exercise
+### 11. Exercise

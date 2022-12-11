@@ -1,5 +1,5 @@
 "use strict";
-// Typescript Type
+// Tipe data & Typescript Type
 // cara deklarasi type dalam typescript :
 let ti = "hello"; // type inference (implicit)
 let ta = "hello ts"; // type annotations (explicit)
