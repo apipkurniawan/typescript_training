@@ -51,6 +51,13 @@ let identitas_5: IdentitasNested = {
   },
 };
 
+// destructuring
+let { firstName, lastName }: { firstName: string; lastName: string } = {
+  firstName: "apip",
+  lastName: "kurniawan",
+};
+console.log("firstName : ", firstName);
+
 // exercise :
 // 1. buat nested, array of object menggunakan interface dan square brackets/generic type
 // output :

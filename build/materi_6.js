@@ -26,6 +26,12 @@ let identitas_5 = {
         prov: "DKI Jakarta",
     },
 };
+// destructuring
+let { firstName, lastName } = {
+    firstName: "apip",
+    lastName: "kurniawan",
+};
+console.log("firstName : ", firstName);
 // exercise :
 // 1. buat nested, array of object menggunakan interface dan square brackets/generic type
 // output :
