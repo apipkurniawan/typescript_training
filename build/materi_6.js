@@ -1,22 +1,5 @@
 "use strict";
 // Object
-// Object literal
-// menggunakan type inference
-let identitas = {
-    nama: "Danu",
-    umur: 23,
-    alamat: "Jakarta",
-};
-console.log(identitas);
-// menggunakan inline interface
-let identitas_2;
-identitas_2 = {
-    nama: "Danu",
-    umur: 23,
-    alamat: "Jakarta",
-};
-let identitas_3;
-let identitas_4;
 let identitas_5 = {
     nama: "Danu",
     umur: 23,

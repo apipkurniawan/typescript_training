@@ -2,33 +2,33 @@
 
 // Object literal
 // menggunakan type inference
-let identitas = {
-  nama: "Danu",
-  umur: 23,
-  alamat: "Jakarta",
-};
-console.log(identitas);
+// let identitas = {
+//   nama: "Danu",
+//   umur: 23,
+//   alamat: "Jakarta",
+// };
+// console.log(identitas);
 
 // menggunakan inline interface
-let identitas_2: {
-  nama: string;
-  umur: number;
-  alamat: string;
-};
-identitas_2 = {
-  nama: "Danu",
-  umur: 23,
-  alamat: "Jakarta",
-};
+// let identitas_2: {
+//   nama: string;
+//   umur: number;
+//   alamat: string;
+// };
+// identitas_2 = {
+//   nama: "Danu",
+//   umur: 23,
+//   alamat: "Jakarta",
+// };
 
 // menggunakan interface
-interface Identitas {
-  nama: string;
-  umur: number;
-  alamat: string;
-}
-let identitas_3: Identitas;
-let identitas_4: Identitas;
+// interface Identitas {
+//   nama: string;
+//   umur: number;
+//   alamat: string;
+// }
+// let identitas_3: Identitas;
+// let identitas_4: Identitas;
 
 // Nested object
 interface IdentitasNested {
