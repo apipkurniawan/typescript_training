@@ -18,6 +18,4 @@
 
 ### 9. Interface dan type
 
-### 10. Advance type
-
-### 11. Exercise
+### 10. Exercise
