@@ -1,7 +1,5 @@
-// export function sum(a, b) {
-//   let nama = "apip";
-//   // nama = 43
+// export function sum(a: number, b: number) {
 //   return a + b;
 // }
 
-// console.log(sum(2, 4));
+// console.log(sum(2, '4'));

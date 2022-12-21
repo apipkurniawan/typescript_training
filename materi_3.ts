@@ -1,4 +1,4 @@
-// Setup config & konsep/cara kerja typescript :
+// * Setup config & konsep/cara kerja typescript :
 
 // code editor : visual studio code
 // 1. node

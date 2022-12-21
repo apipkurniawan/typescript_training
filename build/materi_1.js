@@ -1,7 +1,7 @@
 "use strict";
-// Apa typescript ?
+// * Apa typescript ?
 // typescript adalah bahasa pemrograman yang dibangun diatas javascript dengan fitur static typing
-// Kenapa typescript ?
+// * Kenapa typescript ?
 // 1. kualitas kode
 //    mudah dipahami dan dapat meningkatkan code readability
 // 2. mengurangi bugs
